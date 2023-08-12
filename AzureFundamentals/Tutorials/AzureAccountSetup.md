@@ -40,10 +40,11 @@ Before you begin, make sure you have the following:
 Congratulations! You've successfully set up your Azure account. Now you're ready to start exploring the vast array of cloud services and resources Azure has to offer.
 
 Remember that Azure offers a free trial with a certain amount of credits, so you can experiment and learn without incurring costs during the trial period.
+ ### For students 
 
-## Conclusion
+ - Azure for Students: [Sign Up here](https://azure.microsoft.com/free/students/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352) to get access $100 Azure credit.
+-  GitHub Students Developer Pack: [Sign Up here](https://education.github.com/pack) to get acess to $200 Azure Credits
 
-Setting up your Azure account is the foundation of your cloud journey. By completing this tutorial, you've gained access to a powerful platform that will enable you to deploy applications, build solutions, and innovate in the cloud. Stay curious and eager to learn as you navigate through the exciting world of Microsoft Azure.
 
 
 _The Azure Learning Hub Team_
