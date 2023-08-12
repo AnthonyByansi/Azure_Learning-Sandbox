@@ -1,4 +1,4 @@
-# Tutorial: Setting Up Your Azure Account
+# Setting Up Your Azure Account
 
 Setting up your Azure account is the first step on your cloud journey. In this tutorial, we'll guide you through the process of creating and configuring your Azure account, enabling you to access a world of cloud resources and services.
 
