@@ -1,0 +1,121 @@
+#!/bin/bash
+
+mkdir -p AzureLearningHub/Introduction
+touch AzureLearningHub/README.md
+touch AzureLearningHub/CONTRIBUTING.md
+touch AzureLearningHub/LICENSE
+
+# Introduction
+touch AzureLearningHub/Introduction/About.md
+touch AzureLearningHub/Introduction/HowToContribute.md
+
+# Azure Fundamentals
+mkdir -p AzureLearningHub/AzureFundamentals/Tutorials
+touch AzureLearningHub/AzureFundamentals/Overview.md
+touch AzureLearningHub/AzureFundamentals/Services.md
+touch AzureLearningHub/AzureFundamentals/VirtualMachines.md
+touch AzureLearningHub/AzureFundamentals/Tutorials/AzureAccountSetup.md
+touch AzureLearningHub/AzureFundamentals/Tutorials/FirstVirtualMachine.md
+touch AzureLearningHub/AzureFundamentals/Tutorials/ExploringAzureServices.md
+
+# Azure Networking
+mkdir -p AzureLearningHub/AzureNetworking/Tutorials
+touch AzureLearningHub/AzureNetworking/VirtualNetworks.md
+touch AzureLearningHub/AzureNetworking/LoadBalancers.md
+touch AzureLearningHub/AzureNetworking/OnPremisesConnectivity.md
+touch AzureLearningHub/AzureNetworking/Tutorials/VirtualNetworkCreation.md
+touch AzureLearningHub/AzureNetworking/Tutorials/LoadBalancerConfiguration.md
+touch AzureLearningHub/AzureNetworking/Tutorials/SiteToSiteVPN.md
+
+# Azure Storage Solutions
+mkdir -p AzureLearningHub/AzureStorageSolutions/Tutorials
+touch AzureLearningHub/AzureStorageSolutions/BlobStorage.md
+touch AzureLearningHub/AzureStorageSolutions/FileAndQueueStorage.md
+touch AzureLearningHub/AzureStorageSolutions/DiskStorageOptions.md
+touch AzureLearningHub/AzureStorageSolutions/Tutorials/BlobStorageUsage.md
+touch AzureLearningHub/AzureStorageSolutions/Tutorials/FileQueueStorageUsage.md
+touch AzureLearningHub/AzureStorageSolutions/Tutorials/DiskStorageManagement.md
+
+# Azure Identity and Security
+mkdir -p AzureLearningHub/AzureIdentityAndSecurity/Tutorials
+touch AzureLearningHub/AzureIdentityAndSecurity/ActiveDirectoryBasics.md
+touch AzureLearningHub/AzureIdentityAndSecurity/RBAC.md
+touch AzureLearningHub/AzureIdentityAndSecurity/ResourceSecurity.md
+touch AzureLearningHub/AzureIdentityAndSecurity/Tutorials/ADSetup.md
+touch AzureLearningHub/AzureIdentityAndSecurity/Tutorials/RBACImplementation.md
+touch AzureLearningHub/AzureIdentityAndSecurity/Tutorials/SecurityBestPractices.md
+
+
+# Azure Web Apps and Containers
+mkdir -p AzureLearningHub/AzureWebAppsAndContainers/Tutorials
+touch AzureLearningHub/AzureWebAppsAndContainers/WebAppDeployment.md
+touch AzureLearningHub/AzureWebAppsAndContainers/DockerKubernetesIntro.md
+touch AzureLearningHub/AzureWebAppsAndContainers/AKSDeployment.md
+touch AzureLearningHub/AzureWebAppsAndContainers/Tutorials/WebAppDeploymentGuide.md
+touch AzureLearningHub/AzureWebAppsAndContainers/Tutorials/DockerKubernetesGuide.md
+touch AzureLearningHub/AzureWebAppsAndContainers/Tutorials/AKSDeploymentGuide.md
+
+# Azure Databases
+mkdir -p AzureLearningHub/AzureDatabases/Tutorials
+touch AzureLearningHub/AzureDatabases/SQLDatabaseBasics.md
+touch AzureLearningHub/AzureDatabases/CosmosDB.md
+touch AzureLearningHub/AzureDatabases/DataMigrationStrategies.md
+touch AzureLearningHub/AzureDatabases/Tutorials/SQLDatabaseManagement.md
+touch AzureLearningHub/AzureDatabases/Tutorials/CosmosDBUsage.md
+touch AzureLearningHub/AzureDatabases/Tutorials/DataMigrationGuide.md
+
+# Azure Monitoring and Management
+mkdir -p AzureLearningHub/AzureMonitoringAndManagement/Tutorials
+touch AzureLearningHub/AzureMonitoringAndManagement/MonitorApplicationInsights.md
+touch AzureLearningHub/AzureMonitoringAndManagement/PowerShellAutomation.md
+touch AzureLearningHub/AzureMonitoringAndManagement/ARMTemplateIaC.md
+touch AzureLearningHub/AzureMonitoringAndManagement/Tutorials/MonitoringGuide.md
+touch AzureLearningHub/AzureMonitoringAndManagement/Tutorials/PowerShellAutomationGuide.md
+touch AzureLearningHub/AzureMonitoringAndManagement/Tutorials/ARMTemplateDeployment.md
+
+# Azure DevOps and CI/CD
+mkdir -p AzureLearningHub/AzureDevOpsAndCI_CD/Tutorials
+touch AzureLearningHub/AzureDevOpsAndCI_CD/CICDIntro.md
+touch AzureLearningHub/AzureDevOpsAndCI_CD/AzureDevOpsRepositories.md
+touch AzureLearningHub/AzureDevOpsAndCI_CD/DevOpsPipelines.md
+touch AzureLearningHub/AzureDevOpsAndCI_CD/Tutorials/CICDSetup.md
+touch AzureLearningHub/AzureDevOpsAndCI_CD/Tutorials/ReposManagement.md
+touch AzureLearningHub/AzureDevOpsAndCI_CD/Tutorials/PipelinesGuide.md
+
+# Azure Solutions Architecture
+mkdir -p AzureLearningHub/AzureSolutionsArchitecture/Tutorials
+touch AzureLearningHub/AzureSolutionsArchitecture/ScalableResilientApps.md
+touch AzureLearningHub/AzureSolutionsArchitecture/MicroservicesInAzure.md
+touch AzureLearningHub/AzureSolutionsArchitecture/HybridCloudScenarios.md
+touch AzureLearningHub/AzureSolutionsArchitecture/Tutorials/ScalableResilientDesign.md
+touch AzureLearningHub/AzureSolutionsArchitecture/Tutorials/MicroservicesImplementation.md
+touch AzureLearningHub/AzureSolutionsArchitecture/Tutorials/HybridCloudBestPractices.md
+
+# Advanced Topics and Future Trends
+mkdir -p AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/AIAzureML.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/AzureIoT.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/ServerlessComputing.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials/AIAzureMLGuide.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials/AzureIoTUsage.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials/ServerlessFunctionsGuide.md
+
+# Advanced Topics and Future Trends
+mkdir -p AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/AIAzureML.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/AzureIoT.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/ServerlessComputing.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials/AIAzureMLGuide.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials/AzureIoTUsage.md
+touch AzureLearningHub/AdvancedTopicsAndFutureTrends/Tutorials/ServerlessFunctionsGuide.md
+
+# Contributor Guidelines
+mkdir -p AzureLearningHub/ContributorGuidelines
+touch AzureLearningHub/ContributorGuidelines/SubmittingTutorials.md
+touch AzureLearningHub/ContributorGuidelines/StyleFormatting.md
+touch AzureLearningHub/ContributorGuidelines/CodeOfConduct.md
+
+# .gitignore
+touch AzureLearningHub/.gitignore
+
+echo "Azure Learning Hub file tree has been created."
