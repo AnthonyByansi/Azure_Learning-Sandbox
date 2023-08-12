@@ -29,8 +29,8 @@ Creating and Managing Virtual Machines
 ### Tutorials
 
 - Setting Up an Azure Account
-- Creating Your First Virtual Machine
 - Exploring Azure Services
+- Creating Your First Virtual Machine
 
 ## Azure Networking
 
