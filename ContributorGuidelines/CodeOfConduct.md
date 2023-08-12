@@ -28,7 +28,7 @@ Unacceptable behaviors include but are not limited to:
 
 ## Reporting Violations
 
-If you witness or experience any behavior that violates this code of conduct, please report it to the Azure Learning Hub team at [contact@example.com](mailto:contact@example.com). All reports will be treated confidentially and addressed promptly.
+If you witness or experience any behavior that violates this code of conduct, please report it to the Azure Learning Hub team at [contact@example.com](mailto:byansi.anthony@studentambassadors.com). All reports will be treated confidentially and addressed promptly.
 
 ## Enforcement
 
