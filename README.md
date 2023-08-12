@@ -17,8 +17,8 @@
 
 ## Introduction
 
-About the Repository
-How to Contribute
+- About the Repository
+- How to Contribute
 
 ## Azure Fundamentals
 
@@ -142,6 +142,6 @@ Exploring Serverless Computing with Azure Functions
 
 ## Contributor Guidelines
 
-How to Submit Tutorials
-Style and Formatting Guidelines
-Code of Conduct
+- How to Submit Tutorials
+- Style and Formatting Guidelines
+- Code of Conduct
