@@ -52,7 +52,7 @@ Before you begin, make sure you have:
 
 ## Conclusion
 
-Congratulations! You've successfully created an Azure Virtual Network, a vital step in building secure and isolated network environments for your cloud applications. This tutorial serves as a foundation for connecting and managing various resources within your virtual network.
+> Congratulations! You've successfully created an Azure Virtual Network, a vital step in building secure and isolated network environments for your cloud applications. This tutorial serves as a foundation for connecting and managing various resources within your virtual network.
 
 As you continue your journey through the Azure Learning Hub, you'll discover advanced networking concepts, best practices, and ways to optimize the performance and security of your cloud-based solutions.
 
