@@ -1,4 +1,4 @@
-# Tutorial: Creating an Azure Virtual Network
+# Creating an Azure Virtual Network
 
 In this tutorial, we'll guide you through the process of creating an Azure Virtual Network, a foundational component for building secure and isolated cloud architectures. Azure Virtual Networks allow you to customize your network environment, define subnets, and control network traffic.
 
