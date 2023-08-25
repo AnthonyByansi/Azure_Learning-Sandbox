@@ -61,6 +61,5 @@ Azure Web Apps provides a platform for hosting web applications in a managed env
 
 > As you continue your journey through the Azure Learning Hub, you'll delve into advanced web app deployment strategies, explore container orchestration with Kubernetes, and gain insights into optimizing your application's performance.
 
-Happy web app deployment!
 
 _The Azure Learning-Sandbox Team_
