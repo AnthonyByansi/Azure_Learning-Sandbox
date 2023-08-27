@@ -1,4 +1,7 @@
-# Azure_Learning-Sandbox
+<p align="center">
+    <img src="assets/icons8-azure-240.png">
+  # Azure_Learning-Sandbox
+</p>
 
 ## Table of Contents
 
