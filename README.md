@@ -1,6 +1,6 @@
 <p align="center">
     <img src="assets/icons8-azure-240.png">
-  # Azure_Learning-Sandbox
+  <h1>Azure_Learning-Sandbox</h1>
 </p>
 
 ## Table of Contents
